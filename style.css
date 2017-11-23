@@ -1,0 +1,40 @@
+body{
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url("https://res.cloudinary.com/emamador/image/upload/v1478194477/weatherApp/clearclouds_amf7da.jpg");
+}
+
+/* Css code for the Header Element*/
+h1{
+  color: blue;
+  
+}
+
+.apps {
+  background:rgba(255,255,255,.5);
+  border-radius: 20px;
+  width: 70%;
+  margin:auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-bottom: 40px;
+}
+
+
+
+footer{
+
+  color: black;
+  font-size: 14px;
+  font-family: verdana;
+  font-weight: bold;
+
+}
+
+#date{
+  font-size: 14px;
+  font-family: sans-serif;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
